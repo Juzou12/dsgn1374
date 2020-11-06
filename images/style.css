@@ -1,0 +1,43 @@
+/* Images */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: rgb(255,178,186);
+	background: linear-gradient(90deg, rgba(255,178,186,1) 0%, rgba(245,122,122,1) 25%, rgba(250,164,42,0.9979342078628326) 84%);
+	color: white;
+	font-family: AvenirLTStd-Medium;
+	font-weight: normal;
+	line-height: 1.2;
+	font-size: 25px;
+	margin: 0.25em;
+	background-image: linear-gradient (pink, orange);
+}
+
+
+}
+
+img { 
+	max-width: 100%;
+	float: left;
+ 	margin-left: 0px 0px 0px 30px;
+	width: 150px;
+	height: 38px;
+}
+
+}
+
+
+.gird { 
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.item {
+	width: 50%;
+	padding: : 0.25em;
+}
+
+
